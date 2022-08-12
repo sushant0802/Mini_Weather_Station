@@ -2,29 +2,15 @@ First, here is a list of the parts you will need.
 For the case data, please use the STL file uploaded.
 
 Print Settings
-Printer brand:
-Creality
 
-Printer:
-Ender 3
-
-Rafts:
-No
-
-Supports:
-Yes
-
-Resolution:
-0.16
-
-Infill:
-50
-
-Filament brand:
-Other
-
-Filament material:
-PLA
+Printer brand:Creality
+Printer: Ender 3
+Rafts: No
+Supports: Yes
+Resolution: 0.16
+Infill: 50
+Filament brand: Other
+Filament material: PLA
 
 The manufactured case consists of three parts: the front panel, the center panel, and the rear panel.
 
