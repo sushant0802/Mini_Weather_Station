@@ -60,4 +60,4 @@ First, register as an OpenWeather user.[(https://openweathermap.org/)] (Email ad
 
 After completing user registration, log in to the site and go to the [ My API Keys ] page to display your API key.
 
-**Thank you At the end! :+1:**
+**That's all! :+1:**
