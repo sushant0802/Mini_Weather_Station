@@ -1,8 +1,10 @@
 # Mini_Weather_Station ✨
 Making a mini weather station that runs on [ **ESP8266,( WeMos D1 Mini )**].
-
-https://user-images.githubusercontent.com/97898007/189520067-7556cd08-6d47-4c88-85ff-913ebde6f1e6.mp4
-
+<p align="center">
+  <kbd>
+<img src="https://user-images.githubusercontent.com/97898007/189523499-2e932f05-3a5e-427e-bb07-b9bc0dd26f52.gif"></img>
+  </kbd>
+</p>
 This project is the production of a mini size weather station of about 45mm x 45mm x 50mm using [WeMos D1 Mini (ESP8266)].
 I am using the OpenWeather API to get weather data.
 It also measures indoor real-time temperature and humidity using DHT22 (or DHT11).
